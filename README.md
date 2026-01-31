@@ -1,4 +1,5 @@
 # Cafe Sales EDA ☕📊
+> As part of the ***2026 Monthly Personal Projects**  /  January 1 of 12*
 
 Exploratory data analysis project on cafe transaction data to uncover sales patterns, top-performing items, and time-based trends. The goal is to turn raw point-of-sale data into clear, actionable insights.
 
